@@ -1,6 +1,7 @@
 # FamiRom
 
 ![](ForGitHub.png)
+*Version 1.0.0
 
 
 # RU:
