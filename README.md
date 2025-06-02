@@ -1,6 +1,6 @@
 # FamiRom
 
-![](ForGitHub.png)
+![](1.2.png)
 *Version 1.0.0
 
 
