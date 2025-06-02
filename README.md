@@ -5,7 +5,7 @@
 
 
 # RU:
-FamiRom программа чтобы узнавать информацию о .nes файлах, (Но я надеюсь добавлю и .fds).
+FamiRom программа чтобы узнавать информацию о .nes/fds файлах.
 На данный момент версия 1.2
 
 Версии:
@@ -17,7 +17,7 @@ FamiRom программа чтобы узнавать информацию о .
 1.0 - Первый Релиз
 
 # EN:
-FamiRom is a program to find out information about .nes files, (But I hope to add .fds too).
+FamiRom is a program to find out information about .nes/fds files.
 At the moment version 1.2
 
 Versions:
